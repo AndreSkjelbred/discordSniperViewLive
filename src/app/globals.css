@@ -31,3 +31,21 @@ body {
     text-wrap: balance;
   }
 }
+
+.input-b {
+  color: black;
+}
+
+main {
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+}
+
+h1 {
+  margin-top: 2rem;
+  margin-bottom: 5rem;
+  color: rebeccapurple;
+  font-size: 2rem;
+}
